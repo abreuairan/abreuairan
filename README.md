@@ -1,18 +1,54 @@
 # Olá, eu sou Airan Abreu Tavares!
 
-Desenvolvedor full stack em início de carreira.
+Desenvolvedor full stack em formação (**Java e Python**, pela EBAC), criando sites e soluções para pequenos negócios.
 
-Gosto de tecnologia e de aprender na prática, resolvendo problemas reais. Hoje crio sites para pequenos negócios e profissionais autônomos: catálogos, lojas virtuais, formulários e páginas de venda, pensados primeiro para o celular.
+Sou apaixonado por criar coisas e resolver problemas. Gosto de entender como tudo funciona por trás da tela: por que um botão aparece torto, como um pagamento é confirmado, como os dados chegam do celular até o servidor. Cada projeto que faço é uma desculpa para abrir a "caixa" e aprender o que tem dentro.
 
-Cada projeto é uma chance de entender melhor como as coisas funcionam por trás da tela, do visual até o servidor.
+Hoje desenvolvo sites para profissionais autônomos e pequenos negócios: catálogos, lojas virtuais, formulários e páginas de venda, pensados primeiro para o celular. Todos os projetos abaixo estão **no ar e em uso real**.
 
-## Sobre mim
+---
 
-- Desenvolvo sites completos, do front-end ao back-end, com Python e Flask
-- Tenho projetos no ar e em uso real, feitos para clientes e para o meu próprio negócio
-- Já integrei sites com pagamento (Pix e cartão), cálculo de frete, planilhas Google e WhatsApp
-- Me preocupo com segurança e com os dados dos usuários (LGPD)
-- Em busca de novos desafios e oportunidades na área de tecnologia
+## Comece por aqui
+
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://github.com/abreuairan/loja-do-zero-ao-possivel"><img src="https://raw.githubusercontent.com/abreuairan/loja-do-zero-ao-possivel/main/prints/1-inicio.jpg" width="200" alt="Loja do livro Do Zero ao Possível"></a>
+<br><b><a href="https://github.com/abreuairan/loja-do-zero-ao-possivel">Loja "Do Zero ao Possível"</a></b>
+<br>E-commerce de um livro
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/abreuairan/catalogo-abreu-piercer"><img src="https://raw.githubusercontent.com/abreuairan/catalogo-abreu-piercer/main/prints/1-inicio.jpg" width="200" alt="Catálogo Abreu Piercer"></a>
+<br><b><a href="https://github.com/abreuairan/catalogo-abreu-piercer">Catálogo Abreu Piercer</a></b>
+<br>Catálogo de joias com pedido pelo WhatsApp
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/abreuairan/questionario-do-zero-ao-possivel"><img src="https://raw.githubusercontent.com/abreuairan/questionario-do-zero-ao-possivel/main/prints/1-capa.jpg" width="200" alt="Questionário do livro Do Zero ao Possível"></a>
+<br><b><a href="https://github.com/abreuairan/questionario-do-zero-ao-possivel">Questionário "Do Zero ao Possível"</a></b>
+<br>Pesquisa de leitores
+</td>
+</tr>
+</table>
+
+| Projeto | O que ele prova |
+|---|---|
+| **Loja "Do Zero ao Possível"** | Integração real com pagamento (Pix com QR Code e cartão) e cálculo de frete, com preços sempre conferidos no servidor |
+| **Catálogo Abreu Piercer** | Um carrinho que vira mensagem de WhatsApp, catálogo atualizado por planilha e uma área restrita protegida |
+| **Questionário "Do Zero ao Possível"** | Formulário longo que não cansa quem responde, proteção contra robôs e cuidado com dados pessoais (LGPD) |
+
+---
+
+## O que eu já sei fazer
+
+**Front-end:** páginas responsivas feitas primeiro para o celular, com HTML, CSS e JavaScript puro. Carrinho e sacola que funcionam no navegador, carrossel de fotos, animações leves e um visual "vidro fosco" (Liquid Glass) que continua rápido.
+
+**Back-end:** servidores em Python com Flask. Rotas, validação de dados dos dois lados (navegador e servidor) e geração de páginas com Jinja2.
+
+**Integrações:** pagamento com Mercado Pago (Pix e cartão), frete com Melhor Envio, endereço pelo CEP, Google Planilhas e Apps Script como banco de dados simples, e WhatsApp com mensagem pronta.
+
+**Segurança:** senhas e chaves só em variáveis de ambiente, proteção contra robôs, limite de tentativas, proteção CSRF e dados pessoais fora do repositório.
+
+**Publicação:** sites no ar no Render, com versionamento no Git e GitHub.
 
 ## Tecnologias e ferramentas
 
@@ -28,33 +64,23 @@ Cada projeto é uma chance de entender melhor como as coisas funcionam por trás
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-## Alguns projetos
+**Estudando agora:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-**[Catálogo Abreu Piercer](https://github.com/abreuairan/catalogo-abreu-piercer)**  
-Catálogo de joias de piercing com carrinho que finaliza o pedido pelo WhatsApp, cupom de desconto e visual Liquid Glass. O catálogo é atualizado por uma planilha Google.
+## Como eu documento cada projeto
 
-**[Loja "Do Zero ao Possível"](https://github.com/abreuairan/loja-do-zero-ao-possivel)**  
-E-commerce de um livro com cálculo de frete real (PAC e SEDEX), Pix com QR Code na própria página e pagamento com cartão pelo Mercado Pago.
+Cada projeto aqui tem um README que conta: qual era o problema do cliente, o que o site faz, as decisões que tomei e por quê, o que deu errado no caminho e como resolvi, e o que aprendi. Os projetos são de clientes reais, então o código que lida com pagamentos e dados pessoais fica privado; o que está aqui é a parte visual e a história de como cada um foi construído.
 
-**[Questionário "Do Zero ao Possível"](https://github.com/abreuairan/questionario-do-zero-ao-possivel)**  
-Pesquisa de leitores em 5 blocos, com presente enviado automaticamente, respostas organizadas numa planilha e cuidado com a LGPD.
+---
 
 ## Serviços
 
-### Sites
-- Landing pages (páginas de venda)
-- Sites institucionais
-- Cardápios digitais
-- Catálogos com pedido pelo WhatsApp
-- Lojas virtuais (e-commerce) com pagamento on-line
-- Sites de agendamento de aulas e atendimentos
+**Sites:** landing pages, sites institucionais, cardápios digitais, catálogos com pedido pelo WhatsApp, lojas virtuais com pagamento on-line e sites de agendamento.
 
-### Inteligência artificial e automação
-- Agente de IA para WhatsApp, que responde os clientes automaticamente
-- Agente de voz que atende ligações, como uma recepcionista
-- Assistente pessoal com IA
-- Automações e integrações com planilhas e formulários
+**Inteligência artificial e automação:** agente de IA para WhatsApp, agente de voz que atende ligações, assistente pessoal com IA e automações com planilhas e formulários.
 
-### Outros serviços
-- Formatação e manutenção de computadores
-- Manutenção de consoles (limpeza e troca de pasta térmica)
+**Outros:** formatação e manutenção de computadores, e manutenção de consoles (limpeza e troca de pasta térmica).
+
+## Além do código
+
+Fora da programação, gosto de **jogos**, **modelagem 3D** e **arte**. É o mesmo impulso de sempre: entender como algo é construído por dentro e criar o meu próprio.
