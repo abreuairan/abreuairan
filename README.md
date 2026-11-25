@@ -30,17 +30,34 @@ Cada projeto é uma chance de entender melhor como as coisas funcionam por trás
 
 ## Alguns projetos
 
-**[Catálogo Abreu Piercer](https://github.com/abreuairan/catalogo-abreu-piercer)**
+**[Catálogo Abreu Piercer](https://github.com/abreuairan/catalogo-abreu-piercer)**  
 Catálogo de joias de piercing com carrinho que finaliza o pedido pelo WhatsApp, cupom de desconto e visual Liquid Glass. O catálogo é atualizado por uma planilha Google.
 
-**[Loja "Do Zero ao Possível"](https://github.com/abreuairan/loja-do-zero-ao-possivel)**
+**[Loja "Do Zero ao Possível"](https://github.com/abreuairan/loja-do-zero-ao-possivel)**  
 E-commerce de um livro com cálculo de frete real (PAC e SEDEX), Pix com QR Code na própria página e pagamento com cartão pelo Mercado Pago.
 
-**[Questionário "Do Zero ao Possível"](https://github.com/abreuairan/questionario-do-zero-ao-possivel)**
+**[Questionário "Do Zero ao Possível"](https://github.com/abreuairan/questionario-do-zero-ao-possivel)**  
 Pesquisa de leitores em 5 blocos, com presente enviado automaticamente, respostas organizadas numa planilha e cuidado com a LGPD.
 
 ## Serviços
 
-- Criação de sites para negócios
+### Planos de site
+
+| | Essencial | Extra | Deluxe |
+|---|---|---|---|
+| **Para quem** | Quem precisa estar na internet rápido | Quem vende produtos e quer receber pedidos | Quem quer vender on-line de ponta a ponta |
+| **O que inclui** | Página com bio, marca e botão de WhatsApp | Catálogo ou loja com pedido pelo WhatsApp e automação simples (até 3 páginas e 20 produtos) | Loja com venda e pagamento on-line + agente de WhatsApp que responde os clientes |
+| **Rodadas de alteração** | 1 | 2 | 3 |
+| **Prazo** | 3 dias | 7 dias | 20 a 30 dias |
+| **Valor** | R$ 150 | R$ 250 | R$ 400 + R$ 150/mês |
+
+**Adicionais**
+- Agente de WhatsApp completo em qualquer plano: R$ 200 de implantação + R$ 150/mês
+- Rodada extra de alterações: de R$ 30 a R$ 50
+
+Antes de começar, cada cliente preenche um formulário de briefing, para o site sair do jeito do negócio.
+
+### Outros serviços
+
 - Formatação e manutenção de computadores
 - Manutenção de consoles (limpeza e troca de pasta térmica)
