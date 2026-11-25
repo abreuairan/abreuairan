@@ -48,6 +48,8 @@ Hoje desenvolvo sites para profissionais autônomos e pequenos negócios: catál
 
 **Segurança:** senhas e chaves só em variáveis de ambiente, proteção contra robôs, limite de tentativas, proteção CSRF e dados pessoais fora do repositório.
 
+**Plataformas prontas:** lojas no **Shopify**, incluindo um tema personalizado feito em Liquid (a linguagem de temas do Shopify) com o mesmo visual de uma loja própria, e sites em **WordPress**. Assim, cada cliente recebe a opção que faz mais sentido para o negócio: plataforma pronta ou site feito do zero.
+
 **Agendamentos:** sites de agendamento para aulas e atendimentos, em que o cliente escolhe o horário sozinho.
 
 **Agentes de IA:** agentes que respondem clientes no WhatsApp, atendem ligações como uma recepcionista e funcionam como assistente pessoal, além de automações com planilhas e formulários.
@@ -65,6 +67,8 @@ Hoje desenvolvo sites para profissionais autônomos e pequenos negócios: catál
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat&logo=google&logoColor=white)
 ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat&logo=mercadopago&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
