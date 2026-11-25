@@ -4,7 +4,7 @@ Desenvolvedor full stack em formação (**Java e Python**, pela EBAC), criando s
 
 Sou apaixonado por criar coisas e resolver problemas. Gosto de entender como tudo funciona por trás da tela: por que um botão aparece torto, como um pagamento é confirmado, como os dados chegam do celular até o servidor. Cada projeto que faço é uma desculpa para abrir a "caixa" e aprender o que tem dentro.
 
-Hoje desenvolvo sites para profissionais autônomos e pequenos negócios: catálogos, lojas virtuais, formulários e páginas de venda, pensados primeiro para o celular. Todos os projetos abaixo estão **no ar e em uso real**.
+Hoje desenvolvo sites para profissionais autônomos e pequenos negócios: catálogos, lojas virtuais, formulários e páginas de venda. Penso cada projeto na experiência de quem vai usar pelo celular, mas todos funcionam bem tanto no celular quanto no computador. Os projetos abaixo estão **no ar e em uso real**.
 
 ---
 
@@ -12,11 +12,6 @@ Hoje desenvolvo sites para profissionais autônomos e pequenos negócios: catál
 
 <table>
 <tr>
-<td width="33%" align="center">
-<a href="https://github.com/abreuairan/loja-do-zero-ao-possivel"><img src="https://raw.githubusercontent.com/abreuairan/loja-do-zero-ao-possivel/main/prints/1-inicio.jpg" width="200" alt="Loja do livro Do Zero ao Possível"></a>
-<br><b><a href="https://github.com/abreuairan/loja-do-zero-ao-possivel">Loja "Do Zero ao Possível"</a></b>
-<br>E-commerce de um livro
-</td>
 <td width="33%" align="center">
 <a href="https://github.com/abreuairan/catalogo-abreu-piercer"><img src="https://raw.githubusercontent.com/abreuairan/catalogo-abreu-piercer/main/prints/1-inicio.jpg" width="200" alt="Catálogo Abreu Piercer"></a>
 <br><b><a href="https://github.com/abreuairan/catalogo-abreu-piercer">Catálogo Abreu Piercer</a></b>
@@ -27,14 +22,19 @@ Hoje desenvolvo sites para profissionais autônomos e pequenos negócios: catál
 <br><b><a href="https://github.com/abreuairan/questionario-do-zero-ao-possivel">Questionário "Do Zero ao Possível"</a></b>
 <br>Pesquisa de leitores
 </td>
+<td width="33%" align="center">
+<a href="https://github.com/abreuairan/loja-do-zero-ao-possivel"><img src="https://raw.githubusercontent.com/abreuairan/loja-do-zero-ao-possivel/main/prints/1-inicio.jpg" width="200" alt="Loja do livro Do Zero ao Possível"></a>
+<br><b><a href="https://github.com/abreuairan/loja-do-zero-ao-possivel">Loja "Do Zero ao Possível"</a></b>
+<br>E-commerce de um livro
+</td>
 </tr>
 </table>
 
 | Projeto | O que ele prova |
 |---|---|
-| **Loja "Do Zero ao Possível"** | Integração real com pagamento (Pix com QR Code e cartão) e cálculo de frete, com preços sempre conferidos no servidor |
 | **Catálogo Abreu Piercer** | Um carrinho que vira mensagem de WhatsApp, catálogo atualizado por planilha e uma área restrita protegida |
 | **Questionário "Do Zero ao Possível"** | Formulário longo que não cansa quem responde, proteção contra robôs e cuidado com dados pessoais (LGPD) |
+| **Loja "Do Zero ao Possível"** | Integração real com pagamento (Pix com QR Code e cartão) e cálculo de frete, com preços sempre conferidos no servidor |
 
 ---
 
@@ -47,6 +47,10 @@ Hoje desenvolvo sites para profissionais autônomos e pequenos negócios: catál
 **Integrações:** pagamento com Mercado Pago (Pix e cartão), frete com Melhor Envio, endereço pelo CEP, Google Planilhas e Apps Script como banco de dados simples, e WhatsApp com mensagem pronta.
 
 **Segurança:** senhas e chaves só em variáveis de ambiente, proteção contra robôs, limite de tentativas, proteção CSRF e dados pessoais fora do repositório.
+
+**Agendamentos:** sites de agendamento para aulas e atendimentos, em que o cliente escolhe o horário sozinho.
+
+**Agentes de IA:** agentes que respondem clientes no WhatsApp, atendem ligações como uma recepcionista e funcionam como assistente pessoal, além de automações com planilhas e formulários.
 
 **Publicação:** sites no ar no Render, com versionamento no Git e GitHub.
 
