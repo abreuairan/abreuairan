@@ -1,10 +1,10 @@
 # Olá, eu sou Airan Abreu Tavares!
 
-**Desenvolvedor Full Stack com base em UX/UI**, criando sites e soluções digitais para pequenos negócios, do visual ao servidor. Atualmente aprofundando **Java e Python** na formação Full Stack da EBAC.
+**Desenvolvedor Full Stack com base em Java, Python & UX/UI**, criando sites, soluções & experiencias digitais.
 
-Sou apaixonado por criar coisas e resolver problemas, e gosto de construir interfaces intuitivas, em que o usuário encontra o que precisa sem esforço. Também gosto de entender como tudo funciona por trás da tela: por que um botão aparece torto, como um pagamento é confirmado, como os dados chegam do celular até o servidor. É essa combinação, cuidar da experiência de quem usa e dominar o que acontece por trás, que guia cada projeto que entrego.
+Sou apaixonado por criar interfaces funcionais & intuitivas.Também gosto de entender como tudo funciona por trás da tela: por que um botão aparece torto, como um pagamento é confirmado, como os dados chegam do celular até o servidor. É essa combinação, que guia cada projeto que entrego.
 
-Hoje desenvolvo sites para profissionais autônomos e pequenos negócios: catálogos, lojas virtuais, formulários e páginas de venda. Penso cada projeto na experiência de quem vai usar pelo celular, mas todos funcionam bem tanto no celular quanto no computador. Os projetos abaixo estão **no ar e em uso real**.
+Hoje desenvolvo sites para profissionais autônomos, negócios, catálogos, lojas virtuais, formulários e aplicativos. Cada projeto é pensado e desenvolvido de maneira única respeitando as necessidades e exigencias de cada cliente, tanto para dispositivos moveis como para computadores. Todos os projetos abaixo estão **no ar e em uso real**.
 
 ---
 
@@ -42,7 +42,7 @@ Hoje desenvolvo sites para profissionais autônomos e pequenos negócios: catál
 
 **UX/UI:** interfaces pensadas a partir de quem vai usar. Fluxos curtos até o objetivo (comprar, pedir, responder), hierarquia visual clara, botões fáceis de tocar no celular, mensagens de ajuda no momento certo e identidade visual aplicada com consistência.
 
-**Front-end:** páginas responsivas feitas primeiro para o celular, com HTML, CSS e JavaScript puro. Carrinho e sacola que funcionam no navegador, carrossel de fotos, animações leves e um visual "vidro fosco" (Liquid Glass) que continua rápido.
+**Front-end:** páginas responsivas feitas com HTML, CSS e JavaScript puro. Carrinho e sacola que funcionam no navegador, carrossel de fotos, animações leves e um visual "vidro fosco" (Liquid Glass) que continua rápido.
 
 **Back-end:** servidores em Python com Flask. Rotas, validação de dados dos dois lados (navegador e servidor) e geração de páginas com Jinja2.
 
