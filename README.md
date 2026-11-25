@@ -41,23 +41,20 @@ Pesquisa de leitores em 5 blocos, com presente enviado automaticamente, resposta
 
 ## Serviços
 
-### Planos de site
+### Sites
+- Landing pages (páginas de venda)
+- Sites institucionais
+- Cardápios digitais
+- Catálogos com pedido pelo WhatsApp
+- Lojas virtuais (e-commerce) com pagamento on-line
+- Sites de agendamento de aulas e atendimentos
 
-| | Essencial | Extra | Deluxe |
-|---|---|---|---|
-| **Para quem** | Quem precisa estar na internet rápido | Quem vende produtos e quer receber pedidos | Quem quer vender on-line de ponta a ponta |
-| **O que inclui** | Página com bio, marca e botão de WhatsApp | Catálogo ou loja com pedido pelo WhatsApp e automação simples (até 3 páginas e 20 produtos) | Loja com venda e pagamento on-line + agente de WhatsApp que responde os clientes |
-| **Rodadas de alteração** | 1 | 2 | 3 |
-| **Prazo** | 3 dias | 7 dias | 20 a 30 dias |
-| **Valor** | R$ 150 | R$ 250 | R$ 400 + R$ 150/mês |
-
-**Adicionais**
-- Agente de WhatsApp completo em qualquer plano: R$ 200 de implantação + R$ 150/mês
-- Rodada extra de alterações: de R$ 30 a R$ 50
-
-Antes de começar, cada cliente preenche um formulário de briefing, para o site sair do jeito do negócio.
+### Inteligência artificial e automação
+- Agente de IA para WhatsApp, que responde os clientes automaticamente
+- Agente de voz que atende ligações, como uma recepcionista
+- Assistente pessoal com IA
+- Automações e integrações com planilhas e formulários
 
 ### Outros serviços
-
 - Formatação e manutenção de computadores
 - Manutenção de consoles (limpeza e troca de pasta térmica)
